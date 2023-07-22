@@ -1,5 +1,5 @@
 <h1 align="center">hola 👋, me llamo Jhojan Espinal</h1>
-<h3 align="center">soy un desarrollador frotend</h3>
+<h3 align="center">soy un desarrollador frontend</h3>
 
 - 💬 Ask me about **html, css, javascrit**
 
