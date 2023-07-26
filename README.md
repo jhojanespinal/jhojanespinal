@@ -1,5 +1,5 @@
 <h1 align="center">hola 👋, me llamo Jhojan Espinal</h1>
-<h3 align="center">soy un desarrollador frotend</h3>
+<h3 align="center">soy un desarrollador frontend</h3>
 
 - 🔭 I’m currently working on **en DIGITAL BUHO S.A.C. como practicante**
 
